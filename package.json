@@ -1,6 +1,6 @@
 {
     "name": "edition",
-    "description": "A clean, minimal newsletter theme for the Ghost publishing platform with spanish support",
+    "description": "A clean, minimal newsletter theme for the Ghost publishing platform with added spanish language support",
     "version": "1.0.1",
     "engines": {
         "ghost": ">=4.0.0"
